@@ -10,7 +10,7 @@
 
 ## 🛠️ Skills
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NOT39&langs_count=8&theme=tokyonight" alt="Anurag's GitHub stats" align="right">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NOT39&langs_count=8&theme=tokyonight" alt="Anurag's GitHub stats" align="right"></a>
 
 ### Languages
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">&nbsp;
