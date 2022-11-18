@@ -4,13 +4,13 @@
 
 - 🌱 I’m currently learning TypeScript, React and SQLite 
 - ⚡ Fun fact: The name "NOT" came from a time when I used to play minecraft using the game's creator name "Notch".
-- 📫 How to reach me: <a href="https://wa.me/5545984170762" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"></a>
+- 📫 How to reach me: <a href="https://wa.me/5545984170762"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"></a>
 
 <hr>
 
 ## 🛠️ Skills
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NOT39&langs_count=8&theme=tokyonight" alt="Anurag's GitHub stats" align="right"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NOT39&langs_count=8&theme=tokyonight" alt="Anurag's GitHub stats" align="right"></a>
 
 ### Languages
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">&nbsp;
